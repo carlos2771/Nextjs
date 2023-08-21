@@ -1,5 +1,5 @@
 import Layout from "@/components/layouts";
-import Link from "next/link";
+
 
 export default function primerPost({ data }) {
   if (!data) {
